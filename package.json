@@ -1,0 +1,29 @@
+{
+  "name": "gulp-ng5-shim-decorator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Prajak Khruasuwan",
+  "dependencies": {
+    "gulp-util": "~3.0.6",
+    "through2": "~2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "peerDependencies": {
+    "ng5-decorator": "^0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkhruasu-ui/gulp-ng5-shim-decorator.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pkhruasu-ui/gulp-ng5-shim-decorator/issues"
+  },
+  "homepage": "https://github.com/pkhruasu-ui/gulp-ng5-shim-decorator#readme",
+  "description": ""
+}
